@@ -1,0 +1,3 @@
+pyscreenshot==3.0
+colorthief==0.2.1
+rpi_ws281x==4.3.0
